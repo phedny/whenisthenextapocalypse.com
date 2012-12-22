@@ -1,0 +1,16 @@
+body {
+	background: black;
+	color: lime;
+	font-family: Helvetica,Arial,sans-serif;
+	text-align: center;
+}
+
+h1, h2 {
+	font-size: 1.4em;
+	margin-top: 4em;
+}
+
+p.a {
+	font-size: 3em;
+	margin: 0.5em;
+}
