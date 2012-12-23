@@ -10,6 +10,15 @@ h1, h2 {
 	margin-top: 2em;
 }
 
+a {
+	color: green;
+	text-decoration: none;
+}
+
+address {
+	font-size: 0.6em;
+}
+
 p.a {
 	font-size: 3em;
 	margin: 0.5em;
